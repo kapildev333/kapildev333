@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine learning and Azure**
 
-- 👯 I’m looking to collaborate on **Any fullstack projects**
+- 👯 I’m looking to collaborate on **any fullstack projects**
 
 - 👨‍💻 All of my projects are available at [https://kapildev333.github.io/portfolio-main/](https://kapildev333.github.io/portfolio-main/)
 
