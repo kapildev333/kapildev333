@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kapildev333&label=Profile%20views&color=0e75b6&style=flat" alt="kapildev333" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kapildev333" alt="kapildev333" /></a> </p>
-
 - 🔭 I’m currently working on [Opentracks](https://github.com/OpenTracksApp/OpenTracks)
 
 - 🌱 I’m currently learning **Machine learning and Azure**
@@ -29,3 +27,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kapildev333&show_icons=true&locale=en&layout=compact" alt="kapildev333" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kapildev333&show_icons=true&locale=en" alt="kapildev333" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kapildev333" alt="kapildev333" /></a> </p>
+
