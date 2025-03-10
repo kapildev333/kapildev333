@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kapildev333.github.io/portfolio-main/](https://kapildev333.github.io/portfolio-main/)
 
-- 💬 Ask me about **ReactJS,Golang,Spring boot, Agile**
+- 💬 Ask me about **Fullstack, Cloud and Agile**
 
 - 📫 How to reach me **developer.kapil333@gmail.com**
 
