@@ -11,6 +11,8 @@ Full-stack engineer in Montreal. I build products end to end: **React / Angular*
 
 | Project | What it is | Stack |
 |---|---|---|
+| [**agentboard**](https://github.com/kapildev333/agentboard) | Local board for running coding agents side by side, each in its own git worktree, with live status per console | TypeScript · Node · MCP |
+| [**shopperstop**](https://github.com/kapildev333/shopperstop) | Quick-commerce platform: customer site, admin panel, rider app and mobile app on Go microservices | Go · Postgres · React · Expo |
 | [**ucp-studio**](https://github.com/kapildev333/ucp-studio) | Developer toolkit for the Universal Commerce Protocol: reference merchant (REST + MCP), tracing proxy, conformance runner, web console | TypeScript |
 | [**unicourse**](https://github.com/kapildev333/unicourse) | Multi-tenant university platform: courses, rosters, grading, GPA, announcements | Go · Postgres · React |
 
